@@ -1,1 +1,1 @@
-este sera el archivo javascript
+este será el archivo javascript
